@@ -1,6 +1,10 @@
 # tiktok-branding-genai
 Using multi agent genai for data driven branding
 
+Stack : LangGraph TikTokApi
+
+https://www.loom.com/share/69ad3750bbab46bd9133a3ac178f49d5
+
 | Agent                         | Role and Responsibilities                                                                                           | Characteristics                                                                                              | Scope                                                                                             | Expertise                               | Instructions                                                                                                                                    |
 |-------------------------------|--------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | Social Media Analyst          | - Monitor TikTok trends related to alcoholic drinks.<br>- Gather data on engagement rates, view counts, and user interactions.<br>- Collaborate closely with Data Analyst. | - Analytical, detail-oriented.                                                                              | - Continuous monitoring throughout the campaign period.<br>- Collaborates closely with Data Analyst during data gathering and analysis.          | Social media trends and analytics     | Continuously monitor TikTok for trends related to alcoholic drinks. Provide data on engagement metrics, view counts, and user interactions.        |
